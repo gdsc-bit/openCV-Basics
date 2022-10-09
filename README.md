@@ -6,26 +6,26 @@ The one place where people can look into about the amazing world of OpenCV and c
 ## How to Contribute?
 
 - Take a look at the existing Issues or create a new Issue.
-- [Fork the Repo](https://github.com/gdsc-bit/OpenCV-Basics/fork), create a branch for any issue that you are working on and commit your work.
+- [Fork the Repo](https://github.com/gdsc-bit/openCV-Basics/fork), create a branch for any issue that you are working on and commit your work.
 - Create a **[Pull Request]**, which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
 ## How to make a Pull Request?
 
-**1.** Start by making a fork the [**OpenCV-Basics**](https://github.com/gdsc-bit/OpenCV-Bascis.git) repository. 
+**1.** Start by making a fork the [**openCV-Basics**](https://github.com/gdsc-bit/openCV-Bascis.git) repository. 
 
 **2.** Clone your new fork of the repository:
 
 **3.** Navigate to the new project directory:
 
 ```bash
-cd OpenCV-Basics
+cd openCV-Basics
 ```
 
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/gdsc-bit/OpenCV-Basics.git
+git remote add upstream https://github.com/gdsc-bit/openCV-Basics.git
 ```
 
 **5.** Create a new branch:
