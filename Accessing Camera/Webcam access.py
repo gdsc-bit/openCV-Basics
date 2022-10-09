@@ -1,3 +1,7 @@
+## Try finding how we can access an external camera ##
+
+
+
 # Importing the required library
 import cv2
 
