@@ -1,7 +1,7 @@
 # OpenCV-Basics
 ##  About OpenCV-Basics
 
-The one place where people can look into about the amazing world of OpenCV and contribute the learning resources and also contribute the projects you have build using OpenCV.
+The one place where people can look into about the amazing world of OpenCV and contribute to the learning resources and also to the projects you have build using OpenCV.
   
 ## How to Contribute?
 
