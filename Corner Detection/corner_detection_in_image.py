@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread("assets/checker_board.png")
+img = cv2.imread("checker_board.png")
 img = cv2.resize(img, (0, 0), fx=0.4, fy=0.4)
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
