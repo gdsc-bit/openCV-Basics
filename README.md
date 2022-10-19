@@ -1,4 +1,5 @@
 # OpenCV-Basics
+
 ##  About OpenCV-Basics
 
 The one place where people can look into about the amazing world of OpenCV and contribute to the learning resources and also to the projects you have build using OpenCV.
@@ -54,8 +55,6 @@ git merge upstream/main
 **7.** Make your changes to the source code.
 
 **8.** Stage your changes and commit:
-
-⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
 
 ⚠️ **Make sure** not to run the commands ```git add .``` or ```git add *```. Instead, stage your changes for each file/folder
 
